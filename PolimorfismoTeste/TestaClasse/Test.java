@@ -23,7 +23,7 @@ public class Test {
 		//Teste de alteração	
 		
 		
-		//jhkjh
+		//segundo teste de alteração
 		aCarro.somar(10, carro);
 		
 		System.out.println("\n__________+++__________\n");
