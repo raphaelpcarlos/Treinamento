@@ -19,16 +19,6 @@ public class Test {
 		
 		Acrescimo aCarro = new Acrescimo(carro);
 
-		
-		//Teste de alteração	
-		
-		
-		//segundo teste de alteração
-		
-		
-		//
-		//tdhgfhgf
-		//
 		aCarro.somar(10, carro);
 		
 		System.out.println("\n__________+++__________\n");
